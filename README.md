@@ -49,7 +49,7 @@ py manage.py createsuperuser
 - Move to project folder in Terminal. Then run following Commands :
 
 ```
-python -m pip install -r requirements. txt
+python -m pip install -r requirements.txt
 ```
 
 ```
